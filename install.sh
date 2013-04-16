@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TO_COPY=(.vim .vimrc .screenrc)
+TO_COPY=(.vimrc .screenrc)
 
 for i in "${TO_COPY[@]}"
 do
